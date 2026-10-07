@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik pangarkar</h1>
+<h1 align="center">Hi 👋, I'm Kartik Pangarkar</h1>
 <h3 align="center"> Pursuing MSc in Data Analytics and Artificial Intelligence @ Edhec Business School .</h3>
 
 - 🔭 I’m currently working on ** Projects which include End to End Analytics Solutions and Building AI Solutions. **
