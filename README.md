@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kartik pangarkar</h1>
-<h3 align="center">looking forward to boost my career in Data Science .</h3>
+<h3 align="center"> Pursuing MSc in Data Analytics and Artificial Intelligence @ Edhec Business School .</h3>
 
-- 🔭 I’m currently working on **Python ,SQL, Power BI,Tableau and Excel projects**
-
-- 🌱 I’m currently learning **Data Science , Business Analytics .**
+- 🔭 I’m currently working on ** Projects which include End to End Analytics Solutions and Building AI Solutions. **
 
 - 📝 I have completed my bachelor in **Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pangarkar-kartik](https://github.com/pangarkar-kartik)
 
 - 📫 How to reach me **pangarkarkartik@gmail.com**
-
-- ⚡ Fun fact **I like to play and watch sports .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
